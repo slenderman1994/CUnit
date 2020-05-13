@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Asus/CLionProjects/untitled21/main.c
+stdio.h
+-
+max_and_sum.h
+/cygdrive/c/Users/Asus/CLionProjects/untitled21/max_and_sum.h
+CUnit/CUnit.h
+-
+CUnit/Basic.h
+-
+
+/cygdrive/c/Users/Asus/CLionProjects/untitled21/max_and_sum.h
+
